@@ -12,7 +12,13 @@
 
 .media-img-reveresed {
 	float: right;
-	maargin:0 0
+	margin:0 0;
+}
+
+.media-img-stacked {
+	float: none;
+	margin:0;
+}
 
 .media-body {
 	overflow: hidden;
