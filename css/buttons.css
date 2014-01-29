@@ -5,17 +5,17 @@
 .btn:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-colour: #793284 ;
-	background-image: linear-gradient(to bottom, #793284, #571062);
+	background-colour: #2343AF ;
+	background-image: linear-gradient(to bottom, #374DC0, #1F328B);
 	border-radius: 6px;
-	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-	color: #fff;
+	box-shadow: 1px 1px 4px rgba(28,151,170,1.00);
+	color: #C5C5C5;
 	font-weight: bold;
 }
 
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited {
-	background-color: #5d8432;
-	background-image: linear-gradient(to bottom, #5d8432, #3b6210);
+	background-color: #CA0404;
+	background-image: linear-gradient(to bottom, #252684, #6B6969);
 }
